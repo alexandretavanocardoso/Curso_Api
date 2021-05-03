@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="WeatherForecast.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Controllers\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Curso.Api.Bussines\Curso.Api.Bussines.csproj" />
+    <ProjectReference Include="..\Curso.Api.CrossCutting\Curso.Api.CrossCutting.csproj" />
+    <ProjectReference Include="..\Curso.Api.Domain\Curso.Api.Domain.csproj" />
+  </ItemGroup>
+
+
+</Project>
