@@ -5,6 +5,10 @@
       "Curso.Api.Bussines/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Curso.Api.Data": "1.0.0",
+          "Curso.Api.Domain": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Curso.Api.Bussines.dll": {}
         },

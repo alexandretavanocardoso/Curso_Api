@@ -31,7 +31,14 @@
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\usuario\\Desktop\\curso\\Curso.Solution\\Curso.Api.Data\\Curso.Api.Data.csproj": {
+                "projectPath": "C:\\Users\\usuario\\Desktop\\curso\\Curso.Solution\\Curso.Api.Data\\Curso.Api.Data.csproj"
+              },
+              "C:\\Users\\usuario\\Desktop\\curso\\Curso.Solution\\Curso.Api.Domain\\Curso.Api.Domain.csproj": {
+                "projectPath": "C:\\Users\\usuario\\Desktop\\curso\\Curso.Solution\\Curso.Api.Domain\\Curso.Api.Domain.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
