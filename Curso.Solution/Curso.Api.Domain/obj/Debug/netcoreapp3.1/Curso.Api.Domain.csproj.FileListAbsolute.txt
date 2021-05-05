@@ -1,0 +1,9 @@
+C:\Users\usuario\Desktop\curso\Curso.Solution\Curso.Api.Domain\bin\Debug\netcoreapp3.1\Curso.Api.Domain.deps.json
+C:\Users\usuario\Desktop\curso\Curso.Solution\Curso.Api.Domain\bin\Debug\netcoreapp3.1\Curso.Api.Domain.dll
+C:\Users\usuario\Desktop\curso\Curso.Solution\Curso.Api.Domain\bin\Debug\netcoreapp3.1\Curso.Api.Domain.pdb
+C:\Users\usuario\Desktop\curso\Curso.Solution\Curso.Api.Domain\obj\Debug\netcoreapp3.1\Curso.Api.Domain.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\curso\Curso.Solution\Curso.Api.Domain\obj\Debug\netcoreapp3.1\Curso.Api.Domain.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\curso\Curso.Solution\Curso.Api.Domain\obj\Debug\netcoreapp3.1\Curso.Api.Domain.AssemblyInfo.cs
+C:\Users\usuario\Desktop\curso\Curso.Solution\Curso.Api.Domain\obj\Debug\netcoreapp3.1\Curso.Api.Domain.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\curso\Curso.Solution\Curso.Api.Domain\obj\Debug\netcoreapp3.1\Curso.Api.Domain.dll
+C:\Users\usuario\Desktop\curso\Curso.Solution\Curso.Api.Domain\obj\Debug\netcoreapp3.1\Curso.Api.Domain.pdb

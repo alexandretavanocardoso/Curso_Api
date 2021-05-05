@@ -1,0 +1,14 @@
+C:\Users\usuario\Desktop\curso\Curso.Solution\Curso.Api.Bussines\bin\Debug\netcoreapp3.1\Curso.Api.Bussines.deps.json
+C:\Users\usuario\Desktop\curso\Curso.Solution\Curso.Api.Bussines\bin\Debug\netcoreapp3.1\Curso.Api.Bussines.dll
+C:\Users\usuario\Desktop\curso\Curso.Solution\Curso.Api.Bussines\bin\Debug\netcoreapp3.1\Curso.Api.Bussines.pdb
+C:\Users\usuario\Desktop\curso\Curso.Solution\Curso.Api.Bussines\bin\Debug\netcoreapp3.1\Curso.Api.Data.dll
+C:\Users\usuario\Desktop\curso\Curso.Solution\Curso.Api.Bussines\bin\Debug\netcoreapp3.1\Curso.Api.Domain.dll
+C:\Users\usuario\Desktop\curso\Curso.Solution\Curso.Api.Bussines\bin\Debug\netcoreapp3.1\Curso.Api.Data.pdb
+C:\Users\usuario\Desktop\curso\Curso.Solution\Curso.Api.Bussines\bin\Debug\netcoreapp3.1\Curso.Api.Domain.pdb
+C:\Users\usuario\Desktop\curso\Curso.Solution\Curso.Api.Bussines\obj\Debug\netcoreapp3.1\Curso.Api.Bussines.csprojAssemblyReference.cache
+C:\Users\usuario\Desktop\curso\Curso.Solution\Curso.Api.Bussines\obj\Debug\netcoreapp3.1\Curso.Api.Bussines.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\curso\Curso.Solution\Curso.Api.Bussines\obj\Debug\netcoreapp3.1\Curso.Api.Bussines.AssemblyInfo.cs
+C:\Users\usuario\Desktop\curso\Curso.Solution\Curso.Api.Bussines\obj\Debug\netcoreapp3.1\Curso.Api.Bussines.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\curso\Curso.Solution\Curso.Api.Bussines\obj\Debug\netcoreapp3.1\Curso.Api.Bussines.csproj.CopyComplete
+C:\Users\usuario\Desktop\curso\Curso.Solution\Curso.Api.Bussines\obj\Debug\netcoreapp3.1\Curso.Api.Bussines.dll
+C:\Users\usuario\Desktop\curso\Curso.Solution\Curso.Api.Bussines\obj\Debug\netcoreapp3.1\Curso.Api.Bussines.pdb
