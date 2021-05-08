@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v3.1": {
       "Curso.Api.Bussines/1.0.0": {
         "dependencies": {
+          "Curso.Api.CrossCutting": "1.0.0",
           "Curso.Api.Data": "1.0.0",
           "Curso.Api.Domain": "1.0.0"
         },
@@ -1015,8 +1016,14 @@
           "System.Xml.XmlDocument": "4.3.0"
         }
       },
+      "Curso.Api.CrossCutting/1.0.0": {
+        "runtime": {
+          "Curso.Api.CrossCutting.dll": {}
+        }
+      },
       "Curso.Api.Data/1.0.0": {
         "dependencies": {
+          "Curso.Api.CrossCutting": "1.0.0",
           "Curso.Api.Domain": "1.0.0",
           "Microsoft.EntityFrameworkCore": "3.1.13",
           "Microsoft.EntityFrameworkCore.Abstractions": "3.1.13",
@@ -1028,6 +1035,9 @@
         }
       },
       "Curso.Api.Domain/1.0.0": {
+        "dependencies": {
+          "Curso.Api.CrossCutting": "1.0.0"
+        },
         "runtime": {
           "Curso.Api.Domain.dll": {}
         }
@@ -1725,6 +1735,11 @@
       "sha512": "sha512-MYoTCP7EZ98RrANESW05J5ZwskKDoN0AuZ06ZflnowE50LTpbR5yRg3tHckTVm5j/m47stuGgCrCHWePyHS70Q==",
       "path": "system.xml.xmlserializer/4.3.0",
       "hashPath": "system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    },
+    "Curso.Api.CrossCutting/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "Curso.Api.Data/1.0.0": {
       "type": "project",

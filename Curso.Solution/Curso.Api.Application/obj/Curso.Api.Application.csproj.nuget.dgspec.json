@@ -117,6 +117,9 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
+              "C:\\Users\\usuario\\Desktop\\curso\\Curso.Solution\\Curso.Api.CrossCutting\\Curso.Api.CrossCutting.csproj": {
+                "projectPath": "C:\\Users\\usuario\\Desktop\\curso\\Curso.Solution\\Curso.Api.CrossCutting\\Curso.Api.CrossCutting.csproj"
+              },
               "C:\\Users\\usuario\\Desktop\\curso\\Curso.Solution\\Curso.Api.Data\\Curso.Api.Data.csproj": {
                 "projectPath": "C:\\Users\\usuario\\Desktop\\curso\\Curso.Solution\\Curso.Api.Data\\Curso.Api.Data.csproj"
               },
@@ -181,17 +184,7 @@
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
-            "projectReferences": {
-              "C:\\Users\\usuario\\Desktop\\curso\\Curso.Solution\\Curso.Api.Bussines\\Curso.Api.Bussines.csproj": {
-                "projectPath": "C:\\Users\\usuario\\Desktop\\curso\\Curso.Solution\\Curso.Api.Bussines\\Curso.Api.Bussines.csproj"
-              },
-              "C:\\Users\\usuario\\Desktop\\curso\\Curso.Solution\\Curso.Api.Data\\Curso.Api.Data.csproj": {
-                "projectPath": "C:\\Users\\usuario\\Desktop\\curso\\Curso.Solution\\Curso.Api.Data\\Curso.Api.Data.csproj"
-              },
-              "C:\\Users\\usuario\\Desktop\\curso\\Curso.Solution\\Curso.Api.Domain\\Curso.Api.Domain.csproj": {
-                "projectPath": "C:\\Users\\usuario\\Desktop\\curso\\Curso.Solution\\Curso.Api.Domain\\Curso.Api.Domain.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {
@@ -250,6 +243,9 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
+              "C:\\Users\\usuario\\Desktop\\curso\\Curso.Solution\\Curso.Api.CrossCutting\\Curso.Api.CrossCutting.csproj": {
+                "projectPath": "C:\\Users\\usuario\\Desktop\\curso\\Curso.Solution\\Curso.Api.CrossCutting\\Curso.Api.CrossCutting.csproj"
+              },
               "C:\\Users\\usuario\\Desktop\\curso\\Curso.Solution\\Curso.Api.Domain\\Curso.Api.Domain.csproj": {
                 "projectPath": "C:\\Users\\usuario\\Desktop\\curso\\Curso.Solution\\Curso.Api.Domain\\Curso.Api.Domain.csproj"
               }
@@ -341,7 +337,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\usuario\\Desktop\\curso\\Curso.Solution\\Curso.Api.CrossCutting\\Curso.Api.CrossCutting.csproj": {
+                "projectPath": "C:\\Users\\usuario\\Desktop\\curso\\Curso.Solution\\Curso.Api.CrossCutting\\Curso.Api.CrossCutting.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

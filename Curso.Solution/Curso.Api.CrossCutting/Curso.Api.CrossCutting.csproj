@@ -4,10 +4,4 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\Curso.Api.Bussines\Curso.Api.Bussines.csproj" />
-    <ProjectReference Include="..\Curso.Api.Data\Curso.Api.Data.csproj" />
-    <ProjectReference Include="..\Curso.Api.Domain\Curso.Api.Domain.csproj" />
-  </ItemGroup>
-
 </Project>

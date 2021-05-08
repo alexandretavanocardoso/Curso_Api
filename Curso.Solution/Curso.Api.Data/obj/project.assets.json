@@ -1496,9 +1496,22 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
+      "Curso.Api.CrossCutting/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Curso.Api.CrossCutting.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Curso.Api.CrossCutting.dll": {}
+        }
+      },
       "Curso.Api.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Curso.Api.CrossCutting": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/Curso.Api.Domain.dll": {}
         },
@@ -5723,6 +5736,11 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
+    "Curso.Api.CrossCutting/1.0.0": {
+      "type": "project",
+      "path": "../Curso.Api.CrossCutting/Curso.Api.CrossCutting.csproj",
+      "msbuildProject": "../Curso.Api.CrossCutting/Curso.Api.CrossCutting.csproj"
+    },
     "Curso.Api.Domain/1.0.0": {
       "type": "project",
       "path": "../Curso.Api.Domain/Curso.Api.Domain.csproj",
@@ -5731,6 +5749,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "Curso.Api.CrossCutting >= 1.0.0",
       "Curso.Api.Domain >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 3.1.13",
       "Microsoft.EntityFrameworkCore.Abstractions >= 3.1.13",
@@ -5772,6 +5791,9 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
+            "C:\\Users\\usuario\\Desktop\\curso\\Curso.Solution\\Curso.Api.CrossCutting\\Curso.Api.CrossCutting.csproj": {
+              "projectPath": "C:\\Users\\usuario\\Desktop\\curso\\Curso.Solution\\Curso.Api.CrossCutting\\Curso.Api.CrossCutting.csproj"
+            },
             "C:\\Users\\usuario\\Desktop\\curso\\Curso.Solution\\Curso.Api.Domain\\Curso.Api.Domain.csproj": {
               "projectPath": "C:\\Users\\usuario\\Desktop\\curso\\Curso.Solution\\Curso.Api.Domain\\Curso.Api.Domain.csproj"
             }

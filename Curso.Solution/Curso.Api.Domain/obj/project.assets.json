@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "Curso.Api.CrossCutting/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Curso.Api.CrossCutting.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Curso.Api.CrossCutting.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Curso.Api.CrossCutting/1.0.0": {
+      "type": "project",
+      "path": "../Curso.Api.CrossCutting/Curso.Api.CrossCutting.csproj",
+      "msbuildProject": "../Curso.Api.CrossCutting/Curso.Api.CrossCutting.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "Curso.Api.CrossCutting >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\usuario\\.nuget\\packages\\": {},
@@ -38,7 +57,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\usuario\\Desktop\\curso\\Curso.Solution\\Curso.Api.CrossCutting\\Curso.Api.CrossCutting.csproj": {
+              "projectPath": "C:\\Users\\usuario\\Desktop\\curso\\Curso.Solution\\Curso.Api.CrossCutting\\Curso.Api.CrossCutting.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -3,7 +3,9 @@ C:\Users\usuario\Desktop\curso\Curso.Solution\Curso.Api.Data\bin\Debug\netcoreap
 C:\Users\usuario\Desktop\curso\Curso.Solution\Curso.Api.Data\bin\Debug\netcoreapp3.1\Curso.Api.Data.runtimeconfig.dev.json
 C:\Users\usuario\Desktop\curso\Curso.Solution\Curso.Api.Data\bin\Debug\netcoreapp3.1\Curso.Api.Data.dll
 C:\Users\usuario\Desktop\curso\Curso.Solution\Curso.Api.Data\bin\Debug\netcoreapp3.1\Curso.Api.Data.pdb
+C:\Users\usuario\Desktop\curso\Curso.Solution\Curso.Api.Data\bin\Debug\netcoreapp3.1\Curso.Api.CrossCutting.dll
 C:\Users\usuario\Desktop\curso\Curso.Solution\Curso.Api.Data\bin\Debug\netcoreapp3.1\Curso.Api.Domain.dll
+C:\Users\usuario\Desktop\curso\Curso.Solution\Curso.Api.Data\bin\Debug\netcoreapp3.1\Curso.Api.CrossCutting.pdb
 C:\Users\usuario\Desktop\curso\Curso.Solution\Curso.Api.Data\bin\Debug\netcoreapp3.1\Curso.Api.Domain.pdb
 C:\Users\usuario\Desktop\curso\Curso.Solution\Curso.Api.Data\obj\Debug\netcoreapp3.1\Curso.Api.Data.csprojAssemblyReference.cache
 C:\Users\usuario\Desktop\curso\Curso.Solution\Curso.Api.Data\obj\Debug\netcoreapp3.1\Curso.Api.Data.AssemblyInfoInputs.cache

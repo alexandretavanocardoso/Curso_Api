@@ -4,4 +4,8 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Curso.Api.CrossCutting\Curso.Api.CrossCutting.csproj" />
+  </ItemGroup>
+
 </Project>

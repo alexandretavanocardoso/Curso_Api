@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v3.1": {
       "Curso.Api.Domain/1.0.0": {
+        "dependencies": {
+          "Curso.Api.CrossCutting": "1.0.0"
+        },
         "runtime": {
           "Curso.Api.Domain.dll": {}
+        }
+      },
+      "Curso.Api.CrossCutting/1.0.0": {
+        "runtime": {
+          "Curso.Api.CrossCutting.dll": {}
         }
       }
     }
   },
   "libraries": {
     "Curso.Api.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Curso.Api.CrossCutting/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

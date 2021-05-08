@@ -1,16 +1,9 @@
 C:\Users\usuario\Desktop\curso\Curso.Solution\Curso.Api.CrossCutting\bin\Debug\netcoreapp3.1\Curso.Api.CrossCutting.deps.json
 C:\Users\usuario\Desktop\curso\Curso.Solution\Curso.Api.CrossCutting\bin\Debug\netcoreapp3.1\Curso.Api.CrossCutting.dll
 C:\Users\usuario\Desktop\curso\Curso.Solution\Curso.Api.CrossCutting\bin\Debug\netcoreapp3.1\Curso.Api.CrossCutting.pdb
-C:\Users\usuario\Desktop\curso\Curso.Solution\Curso.Api.CrossCutting\bin\Debug\netcoreapp3.1\Curso.Api.Bussines.dll
-C:\Users\usuario\Desktop\curso\Curso.Solution\Curso.Api.CrossCutting\bin\Debug\netcoreapp3.1\Curso.Api.Data.dll
-C:\Users\usuario\Desktop\curso\Curso.Solution\Curso.Api.CrossCutting\bin\Debug\netcoreapp3.1\Curso.Api.Domain.dll
-C:\Users\usuario\Desktop\curso\Curso.Solution\Curso.Api.CrossCutting\bin\Debug\netcoreapp3.1\Curso.Api.Bussines.pdb
-C:\Users\usuario\Desktop\curso\Curso.Solution\Curso.Api.CrossCutting\bin\Debug\netcoreapp3.1\Curso.Api.Data.pdb
-C:\Users\usuario\Desktop\curso\Curso.Solution\Curso.Api.CrossCutting\bin\Debug\netcoreapp3.1\Curso.Api.Domain.pdb
 C:\Users\usuario\Desktop\curso\Curso.Solution\Curso.Api.CrossCutting\obj\Debug\netcoreapp3.1\Curso.Api.CrossCutting.csprojAssemblyReference.cache
 C:\Users\usuario\Desktop\curso\Curso.Solution\Curso.Api.CrossCutting\obj\Debug\netcoreapp3.1\Curso.Api.CrossCutting.AssemblyInfoInputs.cache
 C:\Users\usuario\Desktop\curso\Curso.Solution\Curso.Api.CrossCutting\obj\Debug\netcoreapp3.1\Curso.Api.CrossCutting.AssemblyInfo.cs
 C:\Users\usuario\Desktop\curso\Curso.Solution\Curso.Api.CrossCutting\obj\Debug\netcoreapp3.1\Curso.Api.CrossCutting.csproj.CoreCompileInputs.cache
-C:\Users\usuario\Desktop\curso\Curso.Solution\Curso.Api.CrossCutting\obj\Debug\netcoreapp3.1\Curso.Api.CrossCutting.csproj.CopyComplete
 C:\Users\usuario\Desktop\curso\Curso.Solution\Curso.Api.CrossCutting\obj\Debug\netcoreapp3.1\Curso.Api.CrossCutting.dll
 C:\Users\usuario\Desktop\curso\Curso.Solution\Curso.Api.CrossCutting\obj\Debug\netcoreapp3.1\Curso.Api.CrossCutting.pdb

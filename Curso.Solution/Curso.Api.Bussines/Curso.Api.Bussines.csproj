@@ -5,6 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Curso.Api.CrossCutting\Curso.Api.CrossCutting.csproj" />
     <ProjectReference Include="..\Curso.Api.Data\Curso.Api.Data.csproj" />
     <ProjectReference Include="..\Curso.Api.Domain\Curso.Api.Domain.csproj" />
   </ItemGroup>
