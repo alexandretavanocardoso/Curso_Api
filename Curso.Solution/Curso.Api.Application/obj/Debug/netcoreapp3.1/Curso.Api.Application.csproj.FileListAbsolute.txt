@@ -67,3 +67,10 @@ C:\Users\usuario\Desktop\curso\Curso.Solution\Curso.Api.Application\obj\Debug\ne
 C:\Users\usuario\Desktop\curso\Curso.Solution\Curso.Api.Application\obj\Debug\netcoreapp3.1\Curso.Api.Application.dll
 C:\Users\usuario\Desktop\curso\Curso.Solution\Curso.Api.Application\obj\Debug\netcoreapp3.1\Curso.Api.Application.pdb
 C:\Users\usuario\Desktop\curso\Curso.Solution\Curso.Api.Application\obj\Debug\netcoreapp3.1\Curso.Api.Application.genruntimeconfig.cache
+C:\Users\usuario\Desktop\curso\Curso.Solution\Curso.Api.Application\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\usuario\Desktop\curso\Curso.Solution\Curso.Api.Application\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\usuario\Desktop\curso\Curso.Solution\Curso.Api.Application\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\usuario\Desktop\curso\Curso.Solution\Curso.Api.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\usuario\Desktop\curso\Curso.Solution\Curso.Api.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\usuario\Desktop\curso\Curso.Solution\Curso.Api.Application\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\usuario\Desktop\curso\Curso.Solution\Curso.Api.Application\obj\Debug\netcoreapp3.1\Curso.Api.Application.MvcApplicationPartsAssemblyInfo.cs

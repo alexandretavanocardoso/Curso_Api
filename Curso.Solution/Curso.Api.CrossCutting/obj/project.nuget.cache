@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "+GnEJMfskf3IS2aBTGKVRonL8dchUvOVLLA/RUsoQ1fFeosNSAFKIZIyN4Rz9fvl3CBaUpmADUeyzFaNPihI3g==",
+  "dgSpecHash": "h6M3T9aQ5L4Gka+dMpmaj5QbHYtp6hZXm/IfsU0ak3yMwSXd+CRLudZ1FdmExbVwilMlxt66sYE0zLiks5rEeg==",
   "success": true,
   "projectFilePath": "C:\\Users\\usuario\\Desktop\\curso\\Curso.Solution\\Curso.Api.CrossCutting\\Curso.Api.CrossCutting.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\usuario\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.0.0\\microsoft.extensions.dependencyinjection.abstractions.3.0.0.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\microsoft.extensions.options\\3.0.0\\microsoft.extensions.options.3.0.0.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\microsoft.extensions.primitives\\3.0.0\\microsoft.extensions.primitives.3.0.0.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }

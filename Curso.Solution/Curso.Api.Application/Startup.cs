@@ -22,11 +22,15 @@ namespace Curso.Api.Application
             services.AddRepositoryDepency();
 
             services.AddApiConfig(Configuration);
+
+            services.AddSwaggerConfig();
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
             app.UseApiConfig(env);
+
+            app.UseSwaggerConfig();
         }
     }
 }
