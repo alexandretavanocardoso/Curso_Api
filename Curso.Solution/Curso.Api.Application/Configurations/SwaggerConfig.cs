@@ -14,9 +14,9 @@ namespace Curso.Api.Application.Configurations
                 c.SwaggerDoc("v1", new OpenApiInfo
                 {
                     Version = "v1",
-                    Title = "Game Store",
-                    Description = "Sistema Web desenvolvido em AspNet.Core 5.0",
-                    Contact = new OpenApiContact { Name = "Game Store", Email = "gameStore@outlook.com" }
+                    Title = "Curso - API",
+                    Description = "Sistema Web desenvolvido em AspNet.Core 3.1",
+                    Contact = new OpenApiContact { Name = "Curso - API", Email = "Curso - API" }
                 });
 
                 c.ResolveConflictingActions(apiDescriptions => apiDescriptions.First());
@@ -26,7 +26,7 @@ namespace Curso.Api.Application.Configurations
         public static void UseSwaggerConfig(this IApplicationBuilder app)
         {
             app.UseSwagger();
-            app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "Curso API - V1"));
+            app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "Curso - API - V1"));
         }
     }
 }

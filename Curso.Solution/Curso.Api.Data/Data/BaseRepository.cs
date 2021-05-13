@@ -113,7 +113,7 @@ namespace Curso.Api.Data.Data
             }
         }
 
-        private async Task<bool> ExistAsync(Guid id)
+        public async Task<bool> ExistAsync(Guid id)
         {
             return await _dbSet.AnyAsync(p => p.Id.Equals(id));
         }

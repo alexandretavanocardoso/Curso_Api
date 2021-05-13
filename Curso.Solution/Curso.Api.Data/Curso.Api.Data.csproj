@@ -24,8 +24,4 @@
     <ProjectReference Include="..\Curso.Api.Domain\Curso.Api.Domain.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Data\Repositories\" />
-  </ItemGroup>
-
 </Project>
